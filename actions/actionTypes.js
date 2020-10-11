@@ -1,0 +1,10 @@
+export const ONADDTRAIN = 'ONADDTRAIN';
+export const ONADDROUTE = 'ONADDROUTE';
+export const ONADDCITY = 'ONADDCITY';
+export const ONADDCOUNTRY = 'ONADDCOUNTRY';
+export const ONADDTICKET = 'ONADDTICKET';
+export const ONADDPERSON = 'ONADDPERSON';
+
+
+export const ONCITYSWITCH = 'ONCITYSWITCH';
+export const ONROUTESWITCH = 'ONROUTESWITCH';
